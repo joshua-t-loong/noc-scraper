@@ -1,0 +1,13 @@
+{
+  "name"         : "NOC-webscraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrap the NOC website for search terms.",
+  "main"         : "server.js",
+  "author"       : "joshua-t-loong",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "csvjson"    : "latest"
+  }
+}
